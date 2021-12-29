@@ -1,0 +1,110 @@
+html {
+  background-color: black;
+}
+@media (max-width: 100px) html {
+  font-size: 12px;
+}
+#welcome-section {
+  color: white;
+  font-size: 2vw;
+  font-family: arial;
+  text-align: center;
+  position: relative;
+  top: 12vw;
+  height: 100vh;
+}
+#subline {
+  color: magenta;
+  font-size: 2vw;
+  font-family: Calibri;
+  text-align: center;
+  position: relative;
+  top: 0vw;
+}
+
+#navbar {
+  background-color: purple;
+  position: fixed;
+  height: 4vw;
+  width: 100%;
+  z-index: 1;
+  top: 0vw;
+}
+a {
+  color: white;
+  font-size: 2vw;
+  font-family: calibri;
+  text-decoration: none;
+}
+#about {
+  position: fixed;
+  left: 70vw;
+  top: 1vw;
+}
+#work {
+  position: fixed;
+  left: 78vw;
+  top: 1vw;
+}
+
+#contact {
+  position: fixed;
+  left: 85vw;
+  top: 1vw;
+}
+
+#projects {
+  background-color: grey;
+  position: relative;
+  top: 13vw;
+  text-align: center;
+  width: 100%;
+}
+h2 {
+  position: relative;
+  top: 1vw;
+  font-family: calibri;
+}
+#profile-link {
+  position: relative;
+  right: 35vw;
+}
+#cap1 {
+  font-size: 1.5vw;
+  position: relative;
+  right: 0.5vw;
+}
+#profile-link2 {
+  position: relative;
+  right: 5vw;
+  bottom: 16.5vw;
+}
+#cap2 {
+  font-size: 1.5vw;
+  position: relative;
+  right: 0.5vw;
+}
+#profile-link3 {
+  position: relative;
+  left: 25vw;
+  bottom: 32.8vw;
+}
+#cap3 {
+  font-size: 1.5vw;
+  position: relative;
+  right: 0.5vw;
+}
+#profile-link4 {
+  position: relative;
+  right: 5vw;
+  bottom: 31.8vw;
+}
+#cap4 {
+  font-size: 1.5vw;
+  position: relative;
+  right: 0.5vw;
+}
+footer {
+  color: white;
+  background-color:black;
+}
